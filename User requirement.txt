@@ -3,6 +3,3 @@
 4. User dapat meng-cancel reservasinya
 5. User dapat mengganti tempat reservasinya
 6. User dapat mengganti waktu reservasi
-7. User dapat melihat menu
-8. User dapat login
-9. User dapat logout
