@@ -1,8 +1,0 @@
-User dapat meng-reservasi tempat di restoran
-User dapat memilih restoran yang akan di reservasi
-User dapat meng-cancel reservasinya
-User dapat mengganti tempat reservasinya
-User dapat mengganti waktu reservasi
-User dapat melihat menu
-User dapat login
-User dapat logout
